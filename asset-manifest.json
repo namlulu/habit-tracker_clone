@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/namlulu/habit-tracker_clone/static/css/main.bcbbe93a.chunk.css",
+    "main.js": "/namlulu/habit-tracker_clone/static/js/main.5edff220.chunk.js",
+    "main.js.map": "/namlulu/habit-tracker_clone/static/js/main.5edff220.chunk.js.map",
+    "runtime-main.js": "/namlulu/habit-tracker_clone/static/js/runtime-main.4daa82a4.js",
+    "runtime-main.js.map": "/namlulu/habit-tracker_clone/static/js/runtime-main.4daa82a4.js.map",
+    "static/js/2.b3ceaf47.chunk.js": "/namlulu/habit-tracker_clone/static/js/2.b3ceaf47.chunk.js",
+    "static/js/2.b3ceaf47.chunk.js.map": "/namlulu/habit-tracker_clone/static/js/2.b3ceaf47.chunk.js.map",
+    "index.html": "/namlulu/habit-tracker_clone/index.html",
+    "static/css/main.bcbbe93a.chunk.css.map": "/namlulu/habit-tracker_clone/static/css/main.bcbbe93a.chunk.css.map",
+    "static/js/2.b3ceaf47.chunk.js.LICENSE.txt": "/namlulu/habit-tracker_clone/static/js/2.b3ceaf47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4daa82a4.js",
+    "static/js/2.b3ceaf47.chunk.js",
+    "static/css/main.bcbbe93a.chunk.css",
+    "static/js/main.5edff220.chunk.js"
+  ]
+}
